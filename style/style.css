@@ -129,6 +129,7 @@ section {
 .call-now-banner {
     background: linear-gradient(90deg, #005FAC 0%, rgba(0, 95, 172, 0.00) 100%), url('../images/watch.png');
     padding: 50px;
+    border-radius: 8px;
 }
 .call-now-title {
     color: #fff;
